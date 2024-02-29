@@ -1,0 +1,152 @@
+{
+    "info": {
+        "symbol": "JUSTDIAL",
+        "companyName": "Just Dial Limited",
+        "industry": "COMPUTERS - SOFTWARE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "tempSuspendedSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE599M01018",
+        "isTop10": false,
+        "identifier": "JUSTDIALEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "JUSTDIAL",
+        "isin": "INE599M01018",
+        "status": "Listed",
+        "listingDate": "05-Jun-2013",
+        "industry": "Internet & Catalogue Retail",
+        "lastUpdateTime": "29-Feb-2024 12:33:16",
+        "pdSectorPe": 23.76,
+        "pdSymbolPe": 23.76,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 85037782
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 919,
+        "change": -5.2000000000000455,
+        "pChange": -0.5626487773209311,
+        "previousClose": 924.2,
+        "open": 925.05,
+        "close": 0,
+        "vwap": 922.93,
+        "lowerCP": "739.40",
+        "upperCP": "1109.00",
+        "pPriceBand": "20",
+        "basePrice": 924.2,
+        "intraDayHighLow": {
+            "min": 915,
+            "max": 932.9,
+            "value": 919
+        },
+        "weekHighLow": {
+            "min": 565,
+            "minDate": "16-Mar-2023",
+            "max": 961,
+            "maxDate": "28-Feb-2024",
+            "value": 919
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "Internet & Catalogue Retail"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 905.75,
+                "buyQty": 0,
+                "sellQty": 30
+            },
+            {
+                "price": 912.9,
+                "buyQty": 0,
+                "sellQty": 48
+            },
+            {
+                "price": 920,
+                "buyQty": 0,
+                "sellQty": 8
+            },
+            {
+                "price": 922.8,
+                "buyQty": 0,
+                "sellQty": 43
+            },
+            {
+                "price": 925.05,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 950,
+                "buyQty": 15,
+                "sellQty": 0
+            },
+            {
+                "price": 952.1,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 965.8,
+                "buyQty": 32,
+                "sellQty": 0
+            },
+            {
+                "price": 994.2,
+                "buyQty": 4,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 158,
+            "sell": 7
+        },
+        "IEP": 925.05,
+        "totalTradedVolume": 437,
+        "finalPrice": 925.05,
+        "finalQuantity": 437,
+        "lastUpdateTime": "29-Feb-2024 09:07:37",
+        "totalBuyQuantity": 3286,
+        "totalSellQuantity": 33250,
+        "atoBuyQty": 158,
+        "atoSellQty": 7,
+        "Change": 0.849999999999909,
+        "perChange": 0.09197143475437233,
+        "prevClose": 924.2
+    }
+}
