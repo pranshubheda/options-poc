@@ -16,6 +16,7 @@ In case you run into permission issues try the following.
 
 ## Run program
 Place your key in the project root `stocks-poc-key.json`
+
 `python main.py`
 
 When done terminate the program and run `deactivate` to terminate virtual environment.
